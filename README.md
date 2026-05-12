@@ -1,0 +1,1 @@
+# [![Minha Primeira Linha de Montagem](https://github.com/ezequiasbastos41-ship-it/-minha-primeira-linha-de-montagem/actions/workflows/linha-de-montagem.yml/badge.svg)](https://github.com/ezequiasbastos41-ship-it/-minha-primeira-linha-de-montagem/actions/workflows/linha-de-montagem.yml)  
